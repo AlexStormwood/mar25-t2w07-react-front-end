@@ -1,5 +1,14 @@
 # React + Vite
 
+## Live Demo
+
+https://glittery-cascaron-bed5a7.netlify.app/
+
+
+
+
+## Plan
+
 - React project plan and architecture 
 	- For basic blog/articles API with user auth 
 		- backend won't be real just yet, so we need to fake the API interactions
